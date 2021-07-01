@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: prettyTables
+Version: 0.4
+Summary: Tables to print in console
+Home-page: https://github.com/Kyostenas/prettyTables
+Author: Benjamin Ramirez
+Author-email: chilerito12@gmail.com
+License: MIT
+Download-URL: https://github.com/Kyostenas/prettyTables/archive/v0.4-beta.1.tar.gz
+Description: UNKNOWN
+Keywords: console,graphics
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
